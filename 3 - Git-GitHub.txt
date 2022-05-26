@@ -1,0 +1,26 @@
+Link para downloading (https://git-scm.com/download/win)
+
+Comando Importantes
+
+git add * (pega tudo e adiciona para stage)
+git add.  
+git remote add origin -e cola a urls
+git remote -v
+git clone link
+git pull origin master (para puxar a versão que está no github)
+git push origin master (para enviar/empurrar arquivo ao github)
+git commit -m "título"
+git status
+git config --global eser.name / user.email
+git init (iniciando um repositório dentro de uma pasta criada)
+
+-a (ver pasta oculta)
+ssh-add id_ed25519 (a chave privada dentro do Agent)
+pwd (mostra o diretório da pasta)
+ls (listar)
+cd
+cd ..
+eval
+Agent pid
+echo > README.md
+mkdir (criar pasta)
