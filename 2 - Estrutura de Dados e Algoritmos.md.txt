@@ -1,3 +1,10 @@
+# Assuntos vistos:
+
+ - Estrutura de dados
+ - Principais estruturas de dados: Vetor e Matrizes; Registro; Lista; Pilha; Fila; Árvore; Tabela Hash; Grafos
+ -  - Estudada cada uma delas
+
+
 INGREDIENTES
 Massa:
 400 g de farinha de trigo

@@ -1,0 +1,7 @@
+# Vistos - Pontos Específicos
+
+ - Expressões Aritmeticas
+ - Concatenação
+ - Intrudução ao Portugol
+ -  - Estrutura de repetição
+ -  - Estruturas de decisão; comentários; laços de repetição; matrizes e vetores
